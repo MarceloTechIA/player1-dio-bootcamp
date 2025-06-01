@@ -1,0 +1,5 @@
+Prompt usado para gerar a imagem da capa:
+
+"A semi-realistic digital portrait of Geralt of Rivia from The Witcher 3, intense stare, glowing red eyes, worn armor, dramatic lighting, glitch background, podcast title overlay, digital painting style."
+
+Ferramenta usada: DALL·E via ChatGPT.

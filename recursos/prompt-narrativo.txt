@@ -1,0 +1,5 @@
+Prompt usado para gerar o roteiro:
+
+"Crie um roteiro de podcast curto (2-3 minutos) estilo storytelling gamer com IA narrando, contando uma história fictícia sobre a última atualização de The Witcher 3. O foco é entreter e informar, usando narrativa envolvente, ritmo cinematográfico e uma IA que interage com o mundo do jogo. Finalize com uma chamada para o próximo episódio. Público-alvo: gamers interessados em IA, histórias e cultura geek."
+
+Ferramenta: ChatGPT (GPT-4)
